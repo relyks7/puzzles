@@ -5,4 +5,4 @@ RULES:
 3. All challenges are solvable on an average laptop computer.
 # CHALLENGE 1:
 This first layer's answers will be prefixed by KRIS. Good luck! 
-P2Ft YWJhb GEgbnJ ldHNh ZWh0cm 9uI G90IG5 lZWI gdW95IGV 2YWgg LmhzYW ggZWh0IGZ vIHN yZXRj YXJha GMgb mV2Z WxlI HRzcm lmIGV odA == | 68667453d
+P2F tYWJh bGEg b nJld HNh ZW h0cm 9uIG90I G5lZWIgd W95IGV2YW ggLm hzYWggZ Wh0IG ZvIHNyZ XRj YXJha GMg ZW5pb iB0c3 JpZiB laH Q=| 68667453d
