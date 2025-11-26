@@ -9,7 +9,9 @@ This first layer's answers will be prefixed by KRIS. Good luck!
 P2FtYWJhbGEgbnJldHNhZWh0cm9uIG90IG5lZWIgdW95IGV2YWggLmhzYWggZWh0IGZvIHNyZXRjYXJhaGMgZW5pbnRzcmliZWh0| 18c55413b
 
 KRIS - You're on the right track.
+
 Et tu, Brutus? Les vacances de décembre.
+
 ????????       ← exactly 8 Base64 characters
 
 Encrypted payload:
