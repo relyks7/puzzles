@@ -12,5 +12,5 @@ KRIS - You're on the right track.
 Et tu, Brutus? Les vacances de décembre.
 ????????       ← exactly 8 Base64 characters
 
-Encrypted payload (Base64 + Caesar 1225):
+Encrypted payload:
 uWhXUukQODgt6TM4K+k4N+k8ODU/Mjcw6T0xLukvMjs8Pek5PkNDNS7q0x0xLuk8ODU+PTI4N+k9OOk9MTI86TUqQi476TI86Srp8/M0LkLz8/fT0w0W6TYu6T0xLukvODU1OEAyNzDpLzI7PD3pNC5C6Tg36Q0yPCw4Oy3p8Qk3MjcuKCwyOyw1LjzyA9PTuWhdWulBPy01Ojk9N9PT8SI4Puk2MjAxPelAKjc96T046TsuNi42Ky476T0xMjzpuWhhUvLT
